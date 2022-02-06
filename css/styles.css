@@ -3,8 +3,8 @@ h1, h2, p, ul, ol {
 }
 *{
     background-color: rgb(206, 206, 206);
-    margin-left: 0px;
-    margin-right: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
     text-align: center;
     min-height: auto;
     font-family: "American Typewriter", serif;
