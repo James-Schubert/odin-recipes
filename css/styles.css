@@ -1,5 +1,8 @@
 h1, h2, p, ul, ol {
-    
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 *{
     background-color: rgb(206, 206, 206);
