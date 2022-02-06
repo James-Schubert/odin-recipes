@@ -12,7 +12,8 @@ ul, ol {
     min-height: auto;
     font-family: "American Typewriter", serif;
     font-size: 20px;
-    
+    padding-left: 0px;
+    padding-right: 0px;
    
     
 }
