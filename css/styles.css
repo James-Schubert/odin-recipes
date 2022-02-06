@@ -1,0 +1,55 @@
+h1, h2, p, ul, ol {
+    font-family: "Trattatello" "Avantgarde" "Courier New";
+}
+*{
+    background-color: rgb(206, 206, 206);
+    margin-left: 10px;
+    text-align: center;
+    
+}
+h2{
+    text-decoration: underline;
+    font-size: 35px;
+
+}
+img {
+    border: 3px solid black;
+    margin-left: 0px;
+    align-items: center;
+}
+h1{
+    font-size: 60px;
+    font-style: "Chalkduster";
+
+}
+a{
+    font-size: 40px;
+    color: black;
+    font-style: Arial;
+    text-decoration: none;
+
+}
+#main-header{
+    text-decoration: underline;
+}
+
+li{
+    text-align: left;
+}
+#desc{
+    text-align: left;
+}
+footer p{
+    margin-top: 300px;
+    align-items: baseline;
+    margin-bottom: 30px;
+    background-color: brown;
+    width:auto;
+}
+body{
+    margin-bottom:-80px;
+    max-width: 1000px;
+
+    margin-left: auto;
+    margin-right:auto;
+}
