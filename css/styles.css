@@ -1,15 +1,20 @@
 h1, h2, p, ul, ol {
-    font-family: "Trattatello" "Avantgarde" "Courier New";
+    
 }
 *{
     background-color: rgb(206, 206, 206);
-    margin-left: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
     text-align: center;
+    min-height: auto;
+    font-family: "American Typewriter", serif;
+    font-size: 20px;
+   
     
 }
 h2{
     text-decoration: underline;
-    font-size: 35px;
+    font-size: 40px;
 
 }
 img {
@@ -18,8 +23,8 @@ img {
     align-items: center;
 }
 h1{
-    font-size: 60px;
-    font-style: "Chalkduster";
+    font-size: 80px;
+    
 
 }
 a{
@@ -29,27 +34,45 @@ a{
     text-decoration: none;
 
 }
-#main-header{
-    text-decoration: underline;
-}
+
 
 li{
     text-align: left;
 }
-#desc{
-    text-align: left;
-}
-footer p{
-    margin-top: 300px;
-    align-items: baseline;
-    margin-bottom: 30px;
-    background-color: brown;
-    width:auto;
-}
-body{
-    margin-bottom:-80px;
-    max-width: 1000px;
 
+footer p{
+    
+    text-align: center;
+    
+    background-color: rgb(126, 148, 124);
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 0px;
+    
+    
+    
+}
+footer{
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0px;
+    margin-top: 0px;
+    height: -20px;
+    padding-top: 0px;
+    padding-right: 0px;
+}
+
+body{
+    margin-bottom:-100px;
+    max-width: 1000px;
     margin-left: auto;
     margin-right:auto;
+    padding-bottom: 100 px;
 }
